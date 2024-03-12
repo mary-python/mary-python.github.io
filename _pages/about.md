@@ -17,7 +17,7 @@ Subtitle 2
 1. Item 2
 1. Item 3
 
-**Bold subtitle**
+**Small subtitle**
 
 Text
 
