@@ -21,7 +21,7 @@ repository               : "mary-python.github.io/mary-python.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mary.png"
   name             : "Mary Scott"
   bio              : "Mary.P.Scott (at) warwick.ac.uk"
   location         : "Oxford, UK"
