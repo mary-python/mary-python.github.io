@@ -1,7 +1,7 @@
 ---
 title: "Aggregation and Transformation of Vector-Valued Messages in the Shuffle Model of Differential Privacy"
 collection: publications
-permalink: /publication/2022-01-28-aggregation
+permalink: /publications/2022-01-28-aggregation
 excerpt: 'In this work we improve the error bound produced by the previous research by implementing a Discrete Fourier Transform.'
 date: 2022-01-28
 venue: 'IEEE Transactions on Information Forensics and Security'
