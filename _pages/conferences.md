@@ -45,4 +45,4 @@ Conference and Journal Reviewer
 ------
 
 * IEEE Internet of Things Journal, 2023
-* Competitive Advantage in the Digital Economy, 2023
+* International Conference on AI and the Digital Economy, 2023
