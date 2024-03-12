@@ -11,4 +11,5 @@ I am a fourth year PhD student at the Department of Computer Science, University
 
 News
 ------
+* Our paper [Aggregation]() published at TIFS'22.
 * October 2019: Started PhD in Computer Science at University of Warwick, under the supervision of [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/) and [Prof. Carsten Maple](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1102).
