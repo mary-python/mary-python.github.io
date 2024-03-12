@@ -5,6 +5,7 @@ permalink: /publications/2022-01-28-aggregation
 excerpt: 'In this work we improve the error bound produced by the previous research by implementing a Discrete Fourier Transform.'
 date: 2022-01-28
 venue: 'IEEE Transactions on Information Forensics and Security'
+paperurl: 'https://arxiv.org/abs/2112.05464'
 citation: 'Scott, Mary, Cormode, Graham and Maple Carsten (2022). Aggregation and Transformation of Vector-Valued Messages in the Shuffle Model of Differential Privacy. In: TIFS: IEEE Transactions on Information Forensics and Security pp. 612-627. ISSN 1556-6013. DOI: 10.1109/TIFS.2022.3147643.'
 ---
 
