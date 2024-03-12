@@ -16,3 +16,5 @@ News
 * February 2022: Our paper [Aggregation and Transformation of Vector-Valued Messages in the Shuffle Model of Differential Privacy](https://ieeexplore.ieee.org/document/9696239) published at TIFS'22.
 * December 2020: Won Best Long Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs20/), WPCCS'20.
 * October 2019: Started PhD in Computer Science at University of Warwick, under the supervision of [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/) and [Prof. Carsten Maple](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1102).
+* July 2019: Graduated from BSc degree in Mathematics with Upper Second-Class Honours (2:1).
+* October 2016: Started BSc degree in Mathematics at University of Warwick, Coventry, UK.
