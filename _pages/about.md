@@ -11,5 +11,8 @@ I am a fourth year PhD student at the Department of Computer Science, University
 
 News
 ------
-* Our paper [Aggregation]() published at TIFS'22.
+* December 2023: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/), "Theory and Foundations" track, WPCCS'23.
+* March 2022: Our paper [Applying the Shuffle Model of Differential Privacy to Vector Aggregation](https://arxiv.org/abs/2112.05464) published at BICOD'22.
+* February 2022: Our paper [Aggregation and Transformation of Vector-Valued Messages in the Shuffle Model of Differential Privacy](https://ieeexplore.ieee.org/document/9696239) published at TIFS'22.
+* December 2020: Won Best Long Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs20/), WPCCS'20.
 * October 2019: Started PhD in Computer Science at University of Warwick, under the supervision of [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/) and [Prof. Carsten Maple](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1102).
