@@ -2,7 +2,7 @@
 title: "Aggregation and Transformation of Vector-Valued Messages in the Shuffle Model of Differential Privacy"
 collection: publications
 permalink: /publications/2022-01-28-aggregation
-excerpt: 'In this work we improve the error bound produced by the previous research by implementing a Discrete Fourier Transform.'
+excerpt: 'In this work we improve the error bound produced by the existing protocol for vector aggregation by implementing a Discrete Fourier Transform.'
 date: 2022-01-28
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://arxiv.org/abs/2112.05464'
