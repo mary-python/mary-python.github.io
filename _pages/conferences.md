@@ -44,5 +44,6 @@ Organising Committee and Session Chair
 Conference and Journal Reviewer
 ------
 
+* International Conference on AI and the Digital Economy, 2024
 * IEEE Internet of Things Journal, 2023
 * International Conference on AI and the Digital Economy, 2023
