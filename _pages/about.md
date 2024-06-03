@@ -11,7 +11,7 @@ I am a fourth year PhD student at the Department of Computer Science, University
 
 News
 ------
-* December 2023: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/), "Theory and Foundations" track, WPCCS'23.
+* March 2023: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/), "Theory and Foundations" track, WPCCS'23.
 * December 2022: Was Invited Poster Presenter at the [Applied Statistics and Risk Unit Partnership Day](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/).
 * October 2022: Was Invited Speaker at [Surrey Centre for Cyber Security, University of Surrey](https://www.surrey.ac.uk/surrey-centre-cyber-security).
 * August 2022: Completed [Summer School on Privacy-Preserving Machine Learning](https://www.conferencemanager.dk/ppmlschool2022/conference), Copenhagen, Denmark.
