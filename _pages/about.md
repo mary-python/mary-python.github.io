@@ -11,6 +11,7 @@ I am a PhD candidate at the Department of Computer Science, University of Warwic
 
 News
 ------
+* November 2024: Submitted PhD thesis titled "Differentially Private Methods for Releasing Aggregated Multi-Dimensional Messages".
 * March 2023: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/), "Theory and Foundations" track, WPCCS'23.
 * December 2022: Was Invited Poster Presenter at the [Applied Statistics and Risk Unit Partnership Day](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/).
 * October 2022: Was Invited Speaker at [Surrey Centre for Cyber Security, University of Surrey](https://www.surrey.ac.uk/surrey-centre-cyber-security).
