@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Department of Computer Science, University of Warwick, in the [Theory and Foundations](https://warwick.ac.uk/fac/sci/dcs/research/focs/) group. I graduated from the Mathematics Institute, University of Warwick, in the summer of 2019 with a BSc in Mathematics. My research area is privacy-enhancing technologies (PETs), specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy). In 2022, I published two papers on developing differentially private methods for releasing aggregated multi-dimensional messages. In 2024, I submitted two papers that develop differentially private methods in the framework of federated learning. One paper characterises data heterogeneity and the other estimates the distribution of populations.
+As of January 2025, I am currently in the interim period between the submission of my PhD thesis and the viva voce examination.
+
+I am now working as a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
+
+I will be performing large-scale individual patient data meta-analyses, methods development, and statistical modelling to optimise the treatment of infectious disease.
+
+My research will focus on improving the diagnosis and triage of patients with suspected severe malaria.
 
 News
 ------
