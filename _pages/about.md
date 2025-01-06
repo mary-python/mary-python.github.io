@@ -17,6 +17,7 @@ My research will focus on improving the diagnosis and triage of patients with su
 
 News
 ------
+* January 2025: Started postdoctoral role as Data Scientist at [IDDO, University of Oxford](https://www.iddo.org/).
 * November 2024: Submitted PhD thesis titled "Differentially Private Methods for Releasing Aggregated Multi-Dimensional Messages".
 * March 2023: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/), "Theory and Foundations" track, WPCCS'23.
 * December 2022: Was Invited Poster Presenter at the [Applied Statistics and Risk Unit Partnership Day](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/).
