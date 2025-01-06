@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "mary.jpg"
   name             : "Mary Scott"
-  bio              : "Mary.P.Scott (at) warwick.ac.uk"
+  bio              : "mary.scott (at) ndm.ox.ac.uk"
   location         : "Oxford, UK"
-  employer         : "University of Warwick"
-  email            : "Mary.P.Scott@warwick.ac.uk" 
+  employer         : "Nuffield Department of Medicine"
+  email            : "mary.scott@ndm.ox.ac.uk" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/scott_m_3.html"
