@@ -11,9 +11,9 @@ As of February 2025, I have defended my PhD thesis and am on track to receive my
 
 I am now working as a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
 
-I will be performing large-scale individual patient data meta-analyses, methods development, and statistical modelling to optimise the treatment of infectious disease.
+I perform large-scale individual patient data meta-analyses, methods development, and statistical modelling to optimise the treatment of infectious disease.
 
-My research will focus on improving the diagnosis and triage of patients with suspected severe malaria.
+My research focuses on improving the diagnosis and triage of patients with suspected severe malaria.
 
 News
 ------
