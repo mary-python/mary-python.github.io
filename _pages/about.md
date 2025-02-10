@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-As of January 2025, I am currently in the interim period between the submission of my PhD thesis and the viva voce examination.
+As of February 2025, I have defended my PhD thesis and am on track to receive my doctorate in July 2025.
 
 I am now working as a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
 
@@ -17,6 +17,7 @@ My research will focus on improving the diagnosis and triage of patients with su
 
 News
 ------
+* February 2025: Defended PhD thesis titled "Differentially Private Methods for Releasing Aggregated Multi-Dimensional Messages".
 * January 2025: Started postdoctoral role as Data Scientist at [IDDO, Oxford](https://www.iddo.org/).
 * November 2024: Submitted PhD thesis titled "Differentially Private Methods for Releasing Aggregated Multi-Dimensional Messages".
 * March 2023: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/), "Theory and Foundations" track, WPCCS'23.
