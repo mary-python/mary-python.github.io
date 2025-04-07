@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-As of April 2025, I have submitted the final version of my PhD thesis and am on track to receive my doctorate in July 2025.
+As of April 2025, I have completed my PhD in Computer Science at University of Warwick, and will graduate in July 2025.
 
 I am now working as a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
 
