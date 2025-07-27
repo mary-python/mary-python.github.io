@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-As of July 2025, I have graduated from University of Warwick with Doctor of Philosophy in Computer Science.
+As of July 2025, I have graduated from University of Warwick with a PhD in Computer Science.
 
 I am now working as a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
 
@@ -17,8 +17,8 @@ My research focuses on improving the diagnosis and triage of patients with suspe
 
 News
 ------
-* July 2025: Graduated from University of Warwick with Doctor of Philosophy in Computer Science.
-* May 2025: Awarded degree of Doctor of Philosophy in Computer Science by University of Warwick.
+* July 2025: Graduated from University of Warwick with a PhD in Computer Science.
+* May 2025: Awarded PhD degree in Computer Science by University of Warwick.
 * April 2025: Submitted final version of PhD thesis.
 * March 2025: Submitted minor corrections for PhD thesis; accepted by examiners in the same month.
 * February 2025: Defended PhD thesis titled "Differentially Private Methods for Releasing Aggregated Multi-Dimensional Messages".
