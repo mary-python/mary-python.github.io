@@ -17,7 +17,7 @@ My research focuses on improving the diagnosis and triage of patients with suspe
 
 News
 ------
-* July 2025: Graduated from University of Warwick with a PhD in Computer Science.
+* July 2025: Graduated from PhD degree at University of Warwick.
 * May 2025: Awarded PhD degree in Computer Science by University of Warwick.
 * April 2025: Submitted final version of PhD thesis.
 * March 2025: Submitted minor corrections for PhD thesis; accepted by examiners in the same month.
