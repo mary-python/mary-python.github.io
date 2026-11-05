@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-As of July 2025, I have graduated from University of Warwick with a PhD in Computer Science.
-
-I am now working as a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
+I am a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
 
 I perform large-scale individual patient data meta-analyses, methods development, and statistical modelling to optimise the treatment of infectious disease.
 
