@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist in the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the Centre for Tropical Medicine and Global Health in Oxford.
+I am a Data Scientist at the [Infectious Diseases Data Observatory (IDDO)](https://www.iddo.org/), based at the University of Oxford's Centre for Tropical Medicine and Global Health.
 
-I perform large-scale individual patient data meta-analyses, methods development, and statistical modelling to optimise the treatment of infectious disease.
+My work involves analysing large clinical datasets and developing statistical methods to improve our understanding and treatment of infectious diseases.
 
-My research focuses on improving the diagnosis and triage of patients with suspected severe malaria.
+My current research focuses on improving the diagnosis and care of patients with suspected severe malaria.
 
 News
 ------
